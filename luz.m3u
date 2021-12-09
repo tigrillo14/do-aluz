@@ -4,5 +4,170 @@ http://51.222.43.170:36995/A105C/AH2WvsYbta2e/263286
 http://51.222.43.170:36995/A105C/AH2WvsYbta2e/244271
 #EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="HD | Disney Channel" tvg-logo="http://51.222.43.170:36995/images/731b1c883232679c23426e8c32a6ca01.png" group-title="CANALES HD",HD | Disney Channel
 http://51.222.43.170:36995/A105C/AH2WvsYbta2e/19
-#EXTINF:-1 tvg-id="" tvg-name="BR | COMEDY CENTRAL HD" tvg-logo="http://51.222.43.170:36995/images/129caaaa7a43053b5fb844224d63c5bb.png" group-title="BRASIL",BR | COMEDY CENTRAL HD
-http://51.222.43.170:36995/A105C/AH2WvsYbta2e/264980
+#EXTINF:-1 tvg-id="" tvg-name="US | Comedy Central" tvg-logo="http://51.222.43.170:36995/images/129caaaa7a43053b5fb844224d63c5bb.png" group-title="ESTADOS UNIDOS",US | Comedy Central
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/254
+#EXTINF:-1 tvg-id="" tvg-name="US | A&E" tvg-logo="http://51.222.43.170:36995/images/abcce2b53bcc131ec4ab6ea2f9f3c5ec.png" group-title="ESTADOS UNIDOS",US | A&E
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/1508
+#EXTINF:-1 tvg-id="" tvg-name="US | History Channel" tvg-logo="http://51.222.43.170:36995/images/43f1ac6263ded5b136c8c5db73c73c6c.png" group-title="ESTADOS UNIDOS",US | History Channel
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/273
+#EXTINF:-1 tvg-id="" tvg-name="US | TLC" tvg-logo="http://51.222.43.170:36995/images/d2d37c7c32173210d37a387a3d1f3dd6.png" group-title="ESTADOS UNIDOS",US | TLC
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/289
+#EXTINF:-1 tvg-id="" tvg-name="US | HGTV HD" tvg-logo="https://yt3.ggpht.com/a/AGF-l78gV6GAeK9KrOsMpwB8s_Xl-tGu2KjAX-4rAA=s900-c-k-c0xffffffff-no-rj-mo" group-title="ESTADOS UNIDOS",US | HGTV HD
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/43174
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="US | Food Network" tvg-logo="http://51.222.43.170:36995/images/072ca0976074aa6959035498252b9cf1.png" group-title="ESTADOS UNIDOS",US | Food Network
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/262
+#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="US | NBC Sports Bay Area" tvg-logo="http://51.222.43.170:36995/images/473185f11ac63f47f1be4f0734945868.jpg" group-title="DEPORTES",US | NBC Sports Bay Area
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232368
+#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-name="US | NBC Sports Boston" tvg-logo="http://51.222.43.170:25461/images/473185f11ac63f47f1be4f0734945868.jpg" group-title="DEPORTES",US | NBC Sports Boston
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232369
+#EXTINF:-1 tvg-id="nbcsportscalifornia.us" tvg-name="US | NBC Sports California" tvg-logo="http://51.222.43.170:25461/images/473185f11ac63f47f1be4f0734945868.jpg" group-title="DEPORTES",US | NBC Sports California
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232370
+#EXTINF:-1 tvg-id="nbcsportsphiladelphia.us" tvg-name="US | NBC Sports Philadelphia" tvg-logo="http://51.222.43.170:25461/images/473185f11ac63f47f1be4f0734945868.jpg" group-title="DEPORTES",US | NBC Sports Philadelphia
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232373
+#EXTINF:-1 tvg-id="nbcsportnwashington.us" tvg-name="US | NBC Sports Washington" tvg-logo="http://51.222.43.170:25461/images/473185f11ac63f47f1be4f0734945868.jpg" group-title="DEPORTES",US | NBC Sports Washington
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232374
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="NEWS | CNN" tvg-logo="http://51.222.43.170:36995/images/8c572c5c1719c63e57a73c5439308d54.jpeg" group-title="NOTICIAS DEL MUNDO",NEWS | CNN
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/40832
+#EXTINF:-1 tvg-id="" tvg-name="US | CNBC" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_240.png?itok=JFho4q51" group-title="ESTADOS UNIDOS",US | CNBC
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/252
+#EXTINF:-1 tvg-id="" tvg-name="US | Paramount" tvg-logo="https://images.mi.tv/channels/cl_paramount-channel-hd_m.png" group-title="ESTADOS UNIDOS",US | Paramount
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/1293
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="US | Bravo TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGS_LXatY47RdKi3LoF6qQ1Dk5q67k2-6l66RMWxSpNXSI-JWH" group-title="ESTADOS UNIDOS",US | Bravo TV
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/20745
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="US | Fox News" tvg-logo="http://51.222.43.170:36995/images/7098d45d3c76d3db412dd9b52179a515.png" group-title="ESTADOS UNIDOS",US | Fox News
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/20705
+#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="US | Fox NY" tvg-logo="http://51.222.43.170:36995/images/ae8810a88581601c751196bdbd730f3d.jpg" group-title="ESTADOS UNIDOS",US | Fox NY
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/20706
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US | Fox Sports 1" tvg-logo="http://51.222.43.170:25461/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="DEPORTES",US | Fox Sports 1
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/1274
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US | Fox Sports 2" tvg-logo="http://51.222.43.170:36995/images/a08404f4d9fb0e3d9b54e314ac30dd70.png" group-title="DEPORTES",US | Fox Sports 2
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/1275
+#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="US | Fox Soccer Plus" tvg-logo="http://51.222.43.170:25461/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="DEPORTES",US | Fox Soccer Plus
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/1276
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports Arizona" tvg-logo="http://51.222.43.170:25461/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="DEPORTES",US | FOX Sports Arizona
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232357
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports Florida" tvg-logo="http://51.222.43.170:25461/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="DEPORTES",US | FOX Sports Florida
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232358
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports North" tvg-logo="http://51.222.43.170:25461/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="DEPORTES",US | FOX Sports North
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232359
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports Ohio" tvg-logo="http://51.222.43.170:25461/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="DEPORTES",US | FOX Sports Ohio
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232360
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports San Diego" tvg-logo="http://51.222.43.170:25461/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="DEPORTES",US | FOX Sports San Diego
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232361
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports South" tvg-logo="http://51.222.43.170:25461/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="DEPORTES",US | FOX Sports South
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232362
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports South East" tvg-logo="http://51.222.43.170:25461/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="DEPORTES",US | FOX Sports South East
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232363
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports South West" tvg-logo="http://51.222.43.170:25461/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="DEPORTES",US | FOX Sports South West
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232364
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports Sun" tvg-logo="http://51.222.43.170:25461/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="DEPORTES",US | FOX Sports Sun
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232365
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports West" tvg-logo="http://51.222.43.170:25461/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="DEPORTES",US | FOX Sports West
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232366
+#EXTINF:-1 tvg-id="" tvg-name="US | Hallmark" tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_3k0ewlbq/def_height/1500/def_width/1500/version/100011/type/2/q/100" group-title="ESTADOS UNIDOS",US | Hallmark
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/270
+#EXTINF:-1 tvg-id="" tvg-name="US | Hallmark Drama" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/5886/brand.gif?itok=A3IBi8Ry" group-title="ESTADOS UNIDOS",US | Hallmark Drama
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/271
+#EXTINF:-1 tvg-id="" tvg-name="CA | INVESTIGATION" tvg-logo="" group-title="CANADA",CA | INVESTIGATION
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/261523
+#EXTINF:-1 tvg-id="" tvg-name="US | NFL Network" tvg-logo="http://51.222.43.170:25461/images/45c466aa2042c9fbcc75d02e6b7b2f6a.png" group-title="DEPORTES",US | NFL Network
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/1286
+#EXTINF:-1 tvg-id="" tvg-name="CA | COOKING CHANNEL" tvg-logo="" group-title="CANADA",CA | COOKING CHANNEL
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/261493
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="US | Cooking Channel" tvg-logo="https://kodi.tv/sites/default/files/styles/medium_crop/public/addon_assets/plugin.video.cook/icon/icon.png?itok=vIcAqFHL" group-title="ESTADOS UNIDOS",US | Cooking Channel
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/22663
+#EXTINF:-1 tvg-id="" tvg-name="US | CBS Sports" tvg-logo="http://51.222.43.170:36995/images/e80c702d93b03d2e923cac4be7ee5c8d.png" group-title="ESTADOS UNIDOS",US | CBS Sports
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/236455
+#EXTINF:-1 tvg-id="" tvg-name="US | HBO East" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsIlAKM8aEj2lJSEx_K73z6PVLfp4W0YoOTnfmL4hhG4jmOFiP&s" group-title="ESTADOS UNIDOS",US | HBO East
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/338
+#EXTINF:-1 tvg-id="" tvg-name="US | HBO ZONE" tvg-logo="http://51.222.43.170:36995/images/712f3ae7d02a6f0c4f8808e12580a6ce.jpg" group-title="ESTADOS UNIDOS",US | HBO ZONE
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/339
+#EXTINF:-1 tvg-id="" tvg-name="US | STARZ ESP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_5Jp_3S6Z6N4yfAjlmUKkVcZsgFl9BOHdiTyKSc_Pivm3nJYA&s" group-title="ESTADOS UNIDOS",US | STARZ ESP
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/340
+#EXTINF:-1 tvg-id="" tvg-name="US | STARZ EDGE" tvg-logo="http://51.222.43.170:36995/images/4d6e10367072f8f3daac55986cb9e8ab.png" group-title="ESTADOS UNIDOS",US | STARZ EDGE
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/341
+#EXTINF:-1 tvg-id="" tvg-name="US | HBO Signature " tvg-logo="http://51.222.43.170:36995/images/d3ec501f325429f6f8174ec6a9e11bd3.png" group-title="ESTADOS UNIDOS",US | HBO Signature 
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/342
+#EXTINF:-1 tvg-id="" tvg-name="US | HBO" t#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US | HBO Comedy" tvg-logo="http://51.222.43.170:36995/images/75c40e671adfb958c91dea238fb1b555.png" group-title="ESTADOS UNIDOS",US | HBO Comedy
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/20733vg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png" group-title="ESTADOS UNIDOS",US | HBO
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/344
+#EXTINF:-1 tvg-id="" tvg-name="US | HBO Latino" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png" group-title="ESTADOS UNIDOS",US | HBO Latino
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/345
+#EXTINF:-1 tvg-id="" tvg-name="US | HBO Family" tvg-logo="http://51.222.43.170:36995/images/6ea796d2cc6be935f471325a6929784f.png" group-title="ESTADOS UNIDOS",US | HBO Family
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/9630
+#EXTINF:-1 tvg-id="" tvg-name="US | Hbo Signature" tvg-logo="http://51.222.43.170:36995/images/d3ec501f325429f6f8174ec6a9e11bd3.png" group-title="ESTADOS UNIDOS",US | Hbo Signature
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/9631
+#EXTINF:-1 tvg-id="" tvg-name="US | Destination America" tvg-logo="http://cdn.realscreen.com/wp/wp-content/uploads/2012/04/destination-america-logo-200x200.jpg?426102" group-title="ESTADOS UNIDOS",US | Destination America
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/257
+#EXTINF:-1 tvg-id="" tvg-name="US | Discovery Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdL4Of3Rk0Vxk5p3TFQlIBsJu-P8FekRtmwv9f4BtqCeLIrgF7&s" group-title="ESTADOS UNIDOS",US | Discovery Family
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/258
+#EXTINF:-1 tvg-id="" tvg-name="US | Discovery Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Discovery_life.png" group-title="ESTADOS UNIDOS",US | Discovery Life
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/259
+#EXTINF:-1 tvg-id="" tvg-name="US | Discovery Science" tvg-logo="http://51.222.43.170:36995/images/08cd13cf02ec49b5c7641e0ca4c1cf24.png" group-title="ESTADOS UNIDOS",US | Discovery Science
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/260
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="US | Boomerang" tvg-logo="http://51.222.43.170:36995/images/b04742bbf18ec1642dee80f6e674e00a.png" group-title="ESTADOS UNIDOS",US | Boomerang
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/20744
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="US | MTV" tvg-logo="https://cdn.mitvstatic.com/channels/mx_m-tv_m.png" group-title="MUSICA",US | MTV
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/351
+#EXTINF:-1 tvg-id="mtv2.us" tvg-name="US | MTV 2" tvg-logo="http://51.222.43.170:36995/images/60d49b81612a945497688bed45f1a567.png" group-title="MUSICA",US | MTV 2
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/352
+#EXTINF:-1 tvg-id="telehit.mx" tvg-name="US | Mtv Live" tvg-logo="http://51.222.43.170:36995/images/02253c97a6c5a009555d41208616cf15.png" group-title="MUSICA",US | Mtv Live
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/355
+#EXTINF:-1 tvg-id="telemundo.mx" tvg-name="MX | Telemundo Internacional" tvg-logo="http://51.222.43.170:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="ENTRETENIMIENTO",MX | Telemundo Internacional
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/1504
+#EXTINF:-1 tvg-id="" tvg-name="MX | Telemundo New York" tvg-logo="http://51.222.43.170:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="ENTRETENIMIENTO",MX | Telemundo New York
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/1507
+#EXTINF:-1 tvg-id="" tvg-name="TE | Telemundo Houston" tvg-logo="http://51.222.43.170:36995/images/cf3327963cd6df4216b12103245d53cb.png" group-title="TELEMUNDO",TE | Telemundo Houston
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232338
+#EXTINF:-1 tvg-id="" tvg-name="TE | Telemundo LA" tvg-logo="http://51.222.43.170:36995/images/cf3327963cd6df4216b12103245d53cb.png" group-title="TELEMUNDO",TE | Telemundo LA
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232339
+#EXTINF:-1 tvg-id="" tvg-name="TE | Telemundo Miami" tvg-logo="http://51.222.43.170:25461/images/cf3327963cd6df4216b12103245d53cb.png" group-title="TELEMUNDO",TE | Telemundo Miami
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232340
+#EXTINF:-1 tvg-id="" tvg-name="TE | Telemundo New York" tvg-logo="http://51.222.43.170:36995/images/cf3327963cd6df4216b12103245d53cb.png" group-title="TELEMUNDO",TE | Telemundo New York
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232341
+#EXTINF:-1 tvg-id="" tvg-name="TE | Telemundo San Francisco" tvg-logo="http://51.222.43.170:36995/images/cf3327963cd6df4216b12103245d53cb.png" group-title="TELEMUNDO",TE | Telemundo San Francisco
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232342
+#EXTINF:-1 tvg-id="" tvg-name="TE | Telemundo Las Vegas" tvg-logo="http://51.222.43.170:36995/images/cf3327963cd6df4216b12103245d53cb.png" group-title="TELEMUNDO",TE | Telemundo Las Vegas
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232343
+#EXTINF:-1 tvg-id="" tvg-name="TE | Telemundo PR" tvg-logo="http://51.222.43.170:36995/images/cf3327963cd6df4216b12103245d53cb.png" group-title="TELEMUNDO",TE | Telemundo PR
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232344
+#EXTINF:-1 tvg-id="" tvg-name="UN | Telemundo MCallen TX" tvg-logo="http://51.222.43.170:36995/images/cf3327963cd6df4216b12103245d53cb.png" group-title="TELEMUNDO",UN | Telemundo MCallen TX
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/256429
+#EXTINF:-1 tvg-id="" tvg-name="TE | Telemundo Boston" tvg-logo="http://51.222.43.170:36995/images/cf3327963cd6df4216b12103245d53cb.png" group-title="TELEMUNDO",TE | Telemundo Boston
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/259235
+#EXTINF:-1 tvg-id="" tvg-name="TE | Telemundo Denver" tvg-logo="http://51.222.43.170:36995/images/cf3327963cd6df4216b12103245d53cb.png" group-title="TELEMUNDO",TE | Telemundo Denver
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/261774
+#EXTINF:-1 tvg-id="" tvg-name="TE | Telemundo Phoenix" tvg-logo="http://51.222.43.170:36995/images/cf3327963cd6df4216b12103245d53cb.png" group-title="TELEMUNDO",TE | Telemundo Phoenix
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/264755
+#EXTINF:-1 tvg-id="" tvg-name="TE | Telemundo San Antonio" tvg-logo="http://51.222.43.170:36995/images/cf3327963cd6df4216b12103245d53cb.png" group-title="TELEMUNDO",TE | Telemundo San Antonio
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/265332
+#EXTINF:-1 tvg-id="" tvg-name="TE | Telemundo Orlando" tvg-logo="http://51.222.43.170:36995/images/cf3327963cd6df4216b12103245d53cb.png" group-title="TELEMUNDO",TE | Telemundo Orlando
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/267259
+#EXTINF:-1 tvg-id="" tvg-name="TE | Telemundo Washington" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Telemundo_Washington_DC_%282012%29_%282D%29.svg/revision/latest/scale-to-width-down/250?cb=20210216124549" group-title="TELEMUNDO",TE | Telemundo Washington
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/274391
+#EXTINF:-1 tvg-id="" tvg-name="TE | Telemundo Chicago" tvg-logo="http://51.222.43.170:36995/images/cf3327963cd6df4216b12103245d53cb.png" group-title="TELEMUNDO",TE | Telemundo Chicago
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232335
+#EXTINF:-1 tvg-id="" tvg-name="TE | Telemundo Dallas" tvg-logo="http://51.222.43.170:36995/images/cf3327963cd6df4216b12103245d53cb.png" group-title="TELEMUNDO",TE | Telemundo Dallas
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/232336
+#EXTINF:-1 tvg-id="" tvg-name="US | CNN" tvg-logo="http://51.222.43.170:36995/images/00866de583d4e4112e275b052f97f0f8.png" group-title="ESTADOS UNIDOS",US | CNN
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/261288
+#EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="MX | CNN En español" tvg-logo="http://51.222.43.170:36995/images/fe2f5160e747c57fa374bff1879b022e.png" group-title="NOTICIAS DEL MUNDO",MX | CNN En español
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/253
+#EXTINF:-1 tvg-id="cnn.mx" tvg-name="MX | CNN Internacional" tvg-logo="http://51.222.43.170:36995/images/30a07a89c0993c71176693709627e4c6.png" group-title="NOTICIAS DEL MUNDO",MX | CNN Internacional
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/1506
+EXTINF:-1 tvg-id="caracol.co" tvg-name="CO | Caracol SD" tvg-logo="http://51.222.43.170:36995/images/2a972c4d8cb494b0865fde2281f831fe.png" group-title="COLOMBIA",CO | Caracol SD
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/410
+#EXTINF:-1 tvg-id="caracolhd.co" tvg-name="CO | Caracol HD" tvg-logo="http://51.222.43.170:36995/images/2a972c4d8cb494b0865fde2281f831fe.png" group-title="COLOMBIA",CO | Caracol HD
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/411
+#EXTINF:-1 tvg-id="rcn.co" tvg-name="CO | RCN SD" tvg-logo="http://51.222.43.170:36995/images/3e4ec3ed66237b31cad81c08c1708c36.png" group-title="COLOMBIA",CO | RCN SD
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/416
+#EXTINF:-1 tvg-id="rcnhd.co" tvg-name="CO | RCN HD" tvg-logo="http://51.222.43.170:25461/images/3e4ec3ed66237b31cad81c08c1708c36.png" group-title="COLOMBIA",CO | RCN HD
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/417
+#EXTINF:-1 tvg-id="foxlife.mx" tvg-name="SD | Fox Life" tvg-logo="http://51.222.43.170:36995/images/e2dcda094ebf94c4bbd9c4ec664d41ba.jpg" group-title="CANALES SD (Poco Internet)",SD | Fox Life
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/260564
+#EXTINF:-1 tvg-id="telehit.mx" tvg-name="US | Mtv Live" tvg-logo="http://51.222.43.170:36995/images/02253c97a6c5a009555d41208616cf15.png" group-title="MUSICA",US | Mtv Live
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/355
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="HD | Discovery Channel" tvg-logo="http://51.222.43.170:25461/images/da18bdc6655a8ff8339bdb63924a5e54.png" group-title="CANALES HD",HD | Discovery Channel
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/26
+#EXTINF:-1 tvg-id="" tvg-name="MX | HolaTV" tvg-logo="http://51.222.43.170:25461/images/541aba12176adeccbd88cc8fffce6e0d.png" group-title="ENTRETENIMIENTO",MX | HolaTV
+http://51.222.43.170:36995/A105C/AH2WvsYbta2e/263901
